@@ -1,0 +1,14 @@
+E:\User\Documents\C#\CRUD APP\CRUD APP\bin\Debug\CRUD APP.exe.config
+E:\User\Documents\C#\CRUD APP\CRUD APP\bin\Debug\CRUD APP.exe
+E:\User\Documents\C#\CRUD APP\CRUD APP\bin\Debug\CRUD APP.pdb
+E:\User\Documents\C#\CRUD APP\CRUD APP\obj\Debug\CRUD APP.csproj.AssemblyReference.cache
+E:\User\Documents\C#\CRUD APP\CRUD APP\obj\Debug\CRUD APP.csproj.CoreCompileInputs.cache
+E:\User\Documents\C#\CRUD APP\CRUD APP\obj\Debug\CRUD APP.exe
+E:\User\Documents\C#\CRUD APP\CRUD APP\obj\Debug\CRUD APP.pdb
+E:\User\Documents\C#\Student Management System CRUD\CRUD APP\bin\Debug\CRUD APP.exe.config
+E:\User\Documents\C#\Student Management System CRUD\CRUD APP\bin\Debug\CRUD APP.exe
+E:\User\Documents\C#\Student Management System CRUD\CRUD APP\bin\Debug\CRUD APP.pdb
+E:\User\Documents\C#\Student Management System CRUD\CRUD APP\obj\Debug\CRUD APP.csproj.AssemblyReference.cache
+E:\User\Documents\C#\Student Management System CRUD\CRUD APP\obj\Debug\CRUD APP.csproj.CoreCompileInputs.cache
+E:\User\Documents\C#\Student Management System CRUD\CRUD APP\obj\Debug\CRUD APP.exe
+E:\User\Documents\C#\Student Management System CRUD\CRUD APP\obj\Debug\CRUD APP.pdb
