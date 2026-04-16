@@ -29,6 +29,14 @@ Sample Output
 screenshots/home.png
 screenshots/add-student.png
 
+##Screenshots
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Add Student
+![Home](screenshots/add-student.png)
+
 Author
 
 TINOTENDA MUGURUNGI
