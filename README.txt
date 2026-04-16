@@ -26,7 +26,8 @@ How to run
 
 Sample Output
 
--Open Folder Called "Sample Output"
+screenshots/home.png
+screenshots/add-student.png
 
 Author
 
